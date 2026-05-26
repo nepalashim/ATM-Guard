@@ -1,0 +1,17 @@
+.venv/
+.claude/
+.env/
+__pycache__/
+*.pyc   
+.idea/
+.DS_Store
+
+training/
+Training-on-Tools/
+# Ignore any other files or directories that are not necessary for version control
+# For example, if you have a data directory for training data, you might want to ignore it:
+data/ 
+
+# If you have any log files or output directories, you can ignore them as well:
+logs/
+NIC/
